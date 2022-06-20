@@ -1,0 +1,30 @@
+﻿  ConsoleApplication1.cpp
+c1xx : warning C4199: 不支援 C++/CLI、C++/CX 或 OpenMP 的兩階段名稱查閱; 請使用 /Zc:twoPhase-
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(218): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(250): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(251): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(268): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(303): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(334): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(335): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(336): warning C4244: '=': 將 'float' 轉換為 'short'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(401): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(402): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(402): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(403): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(404): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(407): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(408): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(421): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(428): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(432): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(434): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(436): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(438): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(441): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(442): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(514): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(519): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(521): warning C4244: '=': 將 'float' 轉換為 'uchar'，由於類型不同，可能導致資料遺失
+c:\users\gigabyte\source\repos\new_old\new_old\project1\consoleapplication1.cpp(100): warning C4101: 'OriImage': 未參考的區域變數
+  Project1.vcxproj -> C:\Users\GIGABYTE\source\repos\new_old\new_old\x64\Debug\Project1.exe
